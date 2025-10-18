@@ -20,18 +20,22 @@ I enjoy collaborating with teams, solving tricky problems, and bringing creative
 
 ---
 
-## 💼 What I'm Up To
-Right now, I'm working on some fun projects like:  
-- **YouTube Clone** – React + Tailwind + RapidAPI – [Live Demo](https://your-youtube-clone-demo-link.com)  
-- **Shopsy E-Commerce App** – React + Redux + Supabase – [Live Demo](https://your-shopsy-demo-link.com)  
-- **Note App** – React + Context API + Local Storage – [Live Demo](https://your-note-app-demo-link.com)  
+## 💼 Current Focus
+Since **December 2024**, I've been working at **Palmcode Software Development L.L.S** as a Full Stack Developer. Here's what I've been up to:  
+
+- Developing and maintaining **responsive web applications** with a strong focus on **UI/UX**.  
+- Collaborating with team members to implement **front-end and back-end features** using modern technologies.  
+- Applying **problem-solving skills** to improve application usability and performance.  
+- Learning and using tools like **React, Next.js, Vite, Tailwind, Mantine, React Native, Bun, Supabase, SQLite, and Firebase** in real-world projects.  
+- Handling **deployment, SEO optimization, and mobile app submissions** for iOS and Android.  
+
+I’m constantly pushing myself to **grow, take on new challenges, and contribute to innovative projects**.  
 
 ---
 
 ## 🛠️ My Toolbox
-I like to build with:  
 **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Vite, Tailwind CSS, Mantine, React Native, Expo, React Navigation  
-**Backend / DB / APIs:** Bun, SQLite, Supabase, Firebase, REST APIs, Node.js, Authentication handling, SSR, SEO, Deployment (Contabo, App Stores)  
+**Backend / DB / APIs:** Bun, SQLite, Supabase, Firebase, REST APIs, Node.js, Authentication handling, SSR Websites, SEO, Deployment (Contabo, App Stores)  
 
 ---
 
