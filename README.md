@@ -69,11 +69,3 @@ Zustand, Zod, Bun, SQLite, REST APIs, Node.js, Authentication handling, Supabase
 
 ## ⚡ Fun Fact
 I think I am funny 😄  
-
----
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ar7ab&label=Profile%20views&color=0e75b6&style=flat" alt="ar7ab" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ar7ab" alt="ar7ab" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar7ab&show_icons=true&locale=en&layout=compact" alt="ar7ab" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar7ab&show_icons=true&locale=en" alt="ar7ab" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar7ab&" alt="ar7ab" /></p>
