@@ -8,8 +8,7 @@
 <p align="center">
   <a href="https://ae.linkedin.com/in/ahmed-arhab">LinkedIn</a> ·
   <a href="https://github.com/ar7ab">GitHub</a> ·
-  <a href="https://ar7ab-portfolio.vercel.app">Portfolio</a> ·
-  <a href="https://islamicnumis.com">Islamic Numis</a>
+  <a href="https://ar7ab-portfolio.vercel.app">Portfolio</a>
 </p>
 
 ---
@@ -138,6 +137,5 @@ Embedded Systems training
 - **LinkedIn:** [ae.linkedin.com/in/ahmed-arhab](https://ae.linkedin.com/in/ahmed-arhab)
 - **GitHub:** [github.com/ar7ab](https://github.com/ar7ab)
 - **Portfolio:** [ar7ab-portfolio.vercel.app](https://ar7ab-portfolio.vercel.app)
-- **Islamic Numis:** [islamicnumis.com](https://islamicnumis.com)
 
 Open to full-time Software Engineer roles within a software development team or technology-focused company.
